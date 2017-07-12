@@ -1,0 +1,1 @@
+# JavaLabNumber4FactorialCalculator
